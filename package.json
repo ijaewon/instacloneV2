@@ -7,6 +7,9 @@
   "author": "ijaewon <ijaewon480@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
     "babel-node": "^0.0.1-security",
     "dotenv": "^8.2.0",
     "eslint-config-prettier": "^6.7.0",
